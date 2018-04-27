@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TweetSplitter</string>
+    <string name="action_me">Whos developing this?</string>
+    <string name="action_help">What is this?</string>
+</resources>
